@@ -1,0 +1,13 @@
+{
+  "name": "peterhindes.com",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
